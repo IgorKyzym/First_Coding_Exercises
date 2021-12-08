@@ -1,0 +1,1 @@
+First simple coding exercises: find number's factors, largest prime number, calculate sum even (odd) numbers, sum of first and last digit of a number, etc.
